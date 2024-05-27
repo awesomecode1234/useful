@@ -1,0 +1,1 @@
+otpauth://totp/Google:virees698%40gmail.com?secret=t2c5k6sksvqetybow4heh3cushnuqj5c&issuer=Google
