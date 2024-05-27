@@ -1,1 +1,0 @@
-otpauth://totp/Google:awesomecode1234%40gmail.com?secret=3thxsiwcpvsn3acupguvcbtnf6znqxk7&issuer=Google
